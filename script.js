@@ -4,7 +4,7 @@ btn.addEventListener('click', () => {
   alert('Thanks for pressing me')
 })
 
-//Extra
+// Extra
 
 const colorChangingBtn = document.getElementById('color-changing-btn')
 const paraToChange = document.getElementById('para-change')
